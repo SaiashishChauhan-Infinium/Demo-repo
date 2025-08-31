@@ -1,2 +1,2 @@
 # Demo-repo
-Learning repostory.
+Learning repository.
